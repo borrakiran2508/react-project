@@ -54,11 +54,11 @@ function ComputerPage() {
       {filteredProduct.map((item)=>{
         return(
             <div key={item.id}>
-               <Link to = {`/mobiles/${item.id}`}>
+              
                 <div className='pageImg'>
                     <img src={item.image} alt={item.name}/>
                 </div>
-               </Link>
+              
                 <div className='ind-image'>
                   <div className='ind-company'>
                     <h2>{item.company}</h2>

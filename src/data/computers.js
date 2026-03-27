@@ -39,7 +39,7 @@ export const computerData = [
         "id": "5",
         "product":"computer",
         "image": "assets/computers/image5.avif",
-        "company": "Accer",
+        "company": "Acer",
         "os":"Windows 11",
         "price": 48000,
         "description":"New laptop with best features"
@@ -48,7 +48,7 @@ export const computerData = [
        "id": "6",
        "product":"computer",
        "image": "assets/computers/image3.avif",
-       "company": "lenovo",
+       "company": "Apple",
        "os":"Windows 11",
        "price": "58000",
        "description":"New laptop with best features"
