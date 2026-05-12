@@ -36,11 +36,9 @@ const Navbar = () => {
             placeholder='Search...'/>
         </div>
         <div>
-         <Link to='/cart'>
           <div className='cart'>
             Cart<span>{cartItems.length}</span>
           </div>
-         </Link>
         </div>
         <div className='user'>
           <div className='user-details'>

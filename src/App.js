@@ -7,7 +7,6 @@ import MobilePage from './pages/MobilePage';
 import ComputerPage from './pages/ComputerPage';
 import MenPage from './pages/MenPage';
 import KidPage from './pages/KidPage';
-
 import ShopPage from './pages/ShopPage';
 
 
